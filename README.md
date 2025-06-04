@@ -15,6 +15,7 @@ This repository contains a SQL-based analysis of eCommerce order data. The goal 
 | `monthly_summary.csv`      | Output: Monthly revenue and order volume          |
 | `monthly_summary.pdf`      | Printable PDF report of the output table          |
 | `README.md`                | Documentation of the project                      |
+| Screenshots (115 & 114)    | SQL Query and Table                               |
 
 ---
 
